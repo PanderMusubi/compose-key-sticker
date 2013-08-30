@@ -76,6 +76,10 @@
         </dc:subject>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
+        <dc:identifier>https://raw.github.com/PanderMusubi/compose-key-sticker/master/compose-key-sticker.svg</dc:identifier>
+        <dc:source>https://github.com/PanderMusubi/compose-key-sticker</dc:source>
+        <dc:relation>https://raw.github.com/PanderMusubi/compose-key-sticker/master/README.md</dc:relation>
+        <dc:language>en</dc:language>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
