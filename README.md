@@ -7,6 +7,8 @@ Most keyboards have a Windows key. However this is often used as the compose key
 
 An ISO keyboard symbol for a compose character exists which can be used to make this key also look like a compose key. This project offers scalable and bitmap images which can be printed and taped or glued on the key in order to achieve this.
 
+In example.jpg can be seen how a simple print on paper can be stuck to a keyboard by transparent adhesive tape. In this way even keyboard lighting of this individual key remains working. When needed, use http://inkscape.org to alter the background color in compose-key-sticker.svg to better match the color of your keyboard.
+
 Modifying a keyboard with this sticker removes the original logo of the Windows key from the daily sight of you and others around you. At the same time it labels the compose key with an appropriate symbol.
 
 The license for this project is CC Attribution-NonCommercial http://creativecommons.org/licenses/by-nc/3.0/
